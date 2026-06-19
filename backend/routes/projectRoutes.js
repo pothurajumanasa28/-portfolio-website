@@ -57,7 +57,7 @@ router.get("/add-sample", async (req, res) => {
       title: "Personal Portfolio Website",
       description: "Full-stack portfolio using React, Node.js and MongoDB",
       technologies: ["React", "Node.js", "MongoDB"],
-      githubLink: "https://github.com/yourusername/portfolio"
+      githubLink: "https://github.com/pothurajumanasa28/portfolio"
     });
 
     await project.save();
