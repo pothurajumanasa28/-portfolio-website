@@ -1,86 +1,50 @@
 # Personal Portfolio Website (Full Stack)
 
-A responsive and modern personal portfolio website built using React.js for the frontend and Node.js with Express.js and MongoDB for backend support. This project showcases my skills, projects, and contact information in a clean and professional UI.
-
----
+A responsive full-stack personal portfolio website built using React.js for the frontend and Node.js, Express.js, and MongoDB for backend integration. It showcases my skills, projects, and contact form with real API support.
 
 ## 🚀 Live Demo
-https://your-netlify-link.netlify.app
+https://dancing-beijinho-855971.netlify.app/
 
----
+## 🖥️ Backend API
+https://portfolio-backend-0kzl.onrender.com
 
 ## 🧑‍💻 GitHub Repository
 https://github.com/pothurajumanasa28/-portfolio-website
 
----
-
-## 📌 Project Description
-
-This is a full-stack personal portfolio website designed to display my technical skills, projects, and contact details. It integrates frontend and backend technologies and uses MongoDB to manage data dynamically.
-
----
-
-## ✨ Features
-
-- Responsive design for all devices
-- Home, About, Projects, and Contact sections
-- Dynamic project display (backend integrated)
-- Contact form functionality
-- REST API using Node.js & Express.js
+## 📌 Features
+- Responsive portfolio design (mobile + desktop)
+- Home, About, Projects, Contact sections
+- Contact form with backend API integration
+- REST API using Node.js + Express.js
 - MongoDB database integration
-- Deployed frontend on Netlify
-
----
+- Fully deployed frontend and backend
 
 ## 🛠️ Tech Stack
-
-### Frontend:
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-- Axios
-
-### Backend:
-- Node.js
-- Express.js
-- MongoDB
-
-### Deployment:
-- Frontend: Netlify
-
----
+Frontend: React.js, HTML, CSS, JavaScript, Axios  
+Backend: Node.js, Express.js, MongoDB  
+Deployment: Netlify (Frontend), Render (Backend)
 
 ## ⚙️ How to Run Locally
+git clone https://github.com/pothurajumanasa28/-portfolio-website.git  
+cd frontend  
+npm install  
+npm start  
 
-### 1. Clone the repository
-```bash id="9xk3bf"
-git clone https://github.com/pothurajumanasa28/-portfolio-website.git
-# Personal Portfolio Website
+cd backend  
+npm install  
+node server.js  
 
-A responsive personal portfolio website built using React.js. It showcases my skills, projects, and contact information.
-
----
-
-## 🚀 Tech Stack
-- React.js
-- HTML
-- CSS
-- JavaScript
-
----
-
-## ⚙️ How to Run
-
-1. Install dependencies:
-2. Start the project:
-
----
-
-## 📌 Project Purpose
-This project is created to demonstrate my frontend development skills and build a personal portfolio website for internship submission.
-
----
+## 🌱 Future Improvements
+- Add admin dashboard for projects
+- Improve UI animations
+- Add authentication system
+- Add blog section
+- Improve SEO optimization
 
 ## 👨‍💻 Author
-- GitHub: https://github.com/pothurajumanasa28
+GitHub: https://github.com/pothurajumanasa28  
+LinkedIn: https://www.linkedin.com/in/manasa-pothuraju-10b309352
+
+
+
+
